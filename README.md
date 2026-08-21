@@ -1,10 +1,15 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:414868,100:7AA2F7&height=190&section=header&text=Oksana%20Yeroshenko&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Odoo%20and%20Python%20Developer&descAlignY=55&descSize=18&descColor=c0caf5" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:414868,100:7AA2F7&height=140&section=header" width="100%" alt="header"/>
 </p>
 
+<h1 align="center">Oksana Yeroshenko</h1>
+<h3 align="center">Odoo &amp; Python Developer &nbsp;|&nbsp; Uzhhorod, Ukraine</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Odoo+ERP+Developer;Python+%7C+PostgreSQL+%7C+XML+%7C+OWL;Custom+modules+and+business+automation;Open+for+new+projects" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Odoo%20ERP-Developer-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="odoo dev" />
+  <img src="https://img.shields.io/badge/Custom%20modules-%26%20integrations-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="modules" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20projects-2EA043?style=for-the-badge" alt="status" />
 </p>
 
 <p align="center">
@@ -90,6 +95,10 @@ Reach me at [odoo-pro.com.ua](https://odoo-pro.com.ua/) or on
   Streak counter (works, but the public instance hits GitHub rate limits at times):
   <img src="https://streak-stats.demolab.com?user=OksanaYeroshenko&hide_border=true&theme=tokyonight" height="170" />
 
+  Note: capsule-render and readme-typing-svg only draw their text when the SVG is
+  opened directly - inside a GitHub <img> the text stays invisible, which is why the
+  title here is plain markdown instead of a picture.
+
   Profile view counter:
   <img src="https://komarev.com/ghpvc/?username=OksanaYeroshenko&label=Profile+views&color=7aa2f7&style=flat-square" />
 -->
@@ -103,19 +112,3 @@ Reach me at [odoo-pro.com.ua](https://odoo-pro.com.ua/) or on
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:414868,100:1A1B27&height=110&section=footer" width="100%" alt="footer"/>
 </p>
-## Hi there 👋
-
-<!--
-**OksanaYeroshenko/OksanaYeroshenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
