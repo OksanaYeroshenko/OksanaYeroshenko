@@ -68,11 +68,7 @@ Reach me at [odoo-pro.com.ua](https://odoo-pro.com.ua/) or on
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OksanaYeroshenko&theme=tokyonight" width="100%" alt="profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OksanaYeroshenko&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20over%20the%20last%2031%20days" width="100%" alt="activity graph" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile summary" />
 </p>
 
 <!--
